@@ -4,19 +4,18 @@
 
 ## Hello Everyone!
 
-It is great having you creating impact in our society today. We appreciate your efforts in helping the public have access to opportunities available for them out there. 🫂 🫂 🫂 
+It is great having you creating impact in our society today. We appreciate your efforts in helping the public have access to opportunities available for them out there. 🤗 🤗 🤗 
 
 This is the ReadMe file to give you some insight on what this project is all about. Check out the content below to find out more.
 
-* [Vision](Vision)
-* [Mission](Mission)
-* [How to contribute](How-to-contribute)
-* [Get in touch](Get-in-touch) 
-* [Find out more](Find-out-more)
+* [Vision](#Vision)
+* [Mission](#Mission)
+* [How to contribute](#How-to-contribute)
+* [Get in touch](#Get-in-touch) 
+* [Find out more](#Find-out-more)
 
 
-## Vision 
-
+# Vision 
 This project is to help every user, be it parents, children or other adults wishing to follow a particular career path find the right and updated opportunities towards achieving their life goals.
 
 We understand and believe everyone out there is needed somewhere, and unless they are aware of where to access the right information, it can get fraustrating at times when one can't seem to find the right opportunities for them.
