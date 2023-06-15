@@ -52,15 +52,15 @@ Ultimately, our goal is to become the go-to platform for students, recent gradua
 
 To contribute, kindly check out the [contributors' guidelines](https://github.com/PetraAG/liforient/blob/main/Contributing.md) and our [roadmap](https://www.figma.com/file/KEwqYLPUAw7AAZW3wIn2lz/Liforient-roadmap?type=design&node-id=0-1) and we will be grateful you did impact someone out there. 
 
-Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct]([CODE_OF_CONDUCT.md](https://github.com/PetraAG/liforient/blob/main/CODE_OF_CONDUCT.md)) in all interactions both on and offline.
 
 ## Get in touch
 
-If you have any suggestion or issue, kindly send us a message at info@liforient.com and we will get back to you as soon as possible.
+If you have any suggestion or issue, kindly send us a message at [liforient@gmail.com](liforient@gmail.com) and we will get back to you as soon as possible.
 
 ## Find out more
 
-To find out more about us, visit our platform at [liforient](liforient.com) or our social media pages on
+To find out more about us, visit our platform or our social media pages on
 * LinkedIn: [liforient](https://linkedin/in/liforient.com)
 * Twitter: [liforient](https://linkedin/in/liforient.com)
 * Facebook: [liforient](https://linkedin/in/liforient.com)
