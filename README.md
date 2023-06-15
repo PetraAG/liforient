@@ -50,7 +50,7 @@ Ultimately, our goal is to become the go-to platform for students, recent gradua
 
 ## How to contribute
 
-To contribute, kindly check out the [contributors' guidelines]([CONTRIBUTING.m](https://github.com/PetraAG/liforient/blob/main/Contributing.md)d) and our [roadmap](https://www.figma.com/file/KEwqYLPUAw7AAZW3wIn2lz/Liforient-roadmap?type=design&node-id=0-1) and we will be grateful you did impact someone out there. 
+To contribute, kindly check out the [contributors' guidelines](https://github.com/PetraAG/liforient/blob/main/Contributing.md) and our [roadmap](https://www.figma.com/file/KEwqYLPUAw7AAZW3wIn2lz/Liforient-roadmap?type=design&node-id=0-1) and we will be grateful you did impact someone out there. 
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
